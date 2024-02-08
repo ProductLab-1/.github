@@ -4,6 +4,15 @@
 
 ProductLab is a comprehensive technical training program aimed at equipping Product Managers with the knowledge and skills necessary to understand and contribute to the software development lifecycle. From the basics of building secure full-stack web applications to mastering complex concepts in data management, security, architecture, quality assurance (QA), and DevOps, ProductLab prepares you to lead and innovate in the tech industry.
 
+## The Goal
+
+1. Confidence. Whether thats in technical discussions with your development teams, running a live demo yourself, pushing a commit, or anything else!
+2. Empathy. Understand your developers struggles better. Sometimes something that seems simple takes forever. Empathy will help you build better products and better timelines.
+
+## The End Result
+
+A comprehensive portfolio website for yourself! Check out the ProductLab-Portfolio-Demo for an example of what you can build. 
+
 ## Navigating ProductLab
 
 We have a Teams page with a recording of all the live sessions we hosted for each Module. If you'd like to join the channel please reach out to the ProductLab Admin to be added. Similarly, if you would like to join our organization reach out the ProductLab Admin to get access so you can review ProductLab repositories as well as add your comments and join the discussion! Our GitHub organization contains a series of repositories, each dedicated to a specific module of the training course. Here's how you can navigate our materials to maximize your learning experience:
