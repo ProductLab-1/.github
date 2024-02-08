@@ -10,7 +10,7 @@ We have a Teams page with a recording of all the live sessions we hosted for eac
 
 ### Modules
 
-1. **[Basics](https://github.com/ProductLab-1/Basics)**: Start your journey by grasping the fundamental concepts of software development. Understand the building blocks that will enable you to tackle more advanced subjects. For most of the repositories the instructions for the module are in the ReadMe of the repository, however for this Module please find the instructions in the "Basics Module - Assignment Instructions.pdf" file within the repo.
+1. **[Basics](https://github.com/ProductLab-1/Basics)**: Start your journey by grasping the fundamental concepts of software development. Understand the building blocks that will enable you to tackle more advanced subjects. For most of the repositories the instructions for the module are in the ReadMe of the repository. But since you're just starting out we put the instructions in a format you might be more used to. So just download the "[Basics Module - Assignment Instructions.pdf](https://github.com/ProductLab-1/Basics/blob/main/Basics%20Module%20-%20Assignment%20Instructions.pdf)" file to get cookin'!
 
 2. **[Data Module](https://github.com/ProductLab-1/Data_Module)**: Dive into data structures, databases, and data modeling. Learn how applications store, reference, and manipulate data.
 
