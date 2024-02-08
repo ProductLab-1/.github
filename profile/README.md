@@ -2,7 +2,7 @@
 
 ## Overview
 
-ProductLab is a comprehensive technical training program aimed at equipping consultants with the knowledge and skills necessary to understand and contribute to the software development lifecycle. From the basics of building secure full-stack web applications to mastering complex concepts in data management, security, architecture, quality assurance (QA), and DevOps, ProductLab prepares you to lead and innovate in the tech industry.
+ProductLab is a comprehensive technical training program aimed at equipping Product Managers with the knowledge and skills necessary to understand and contribute to the software development lifecycle. From the basics of building secure full-stack web applications to mastering complex concepts in data management, security, architecture, quality assurance (QA), and DevOps, ProductLab prepares you to lead and innovate in the tech industry.
 
 ## Navigating ProductLab
 
