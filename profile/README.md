@@ -7,7 +7,7 @@ ProductLab is a comprehensive technical training program aimed at equipping Prod
 ## The Goal
 
 1. Confidence. Whether thats in technical discussions with your development teams, running a live demo yourself, pushing a commit, or anything else!
-2. Empathy. Understand your developers struggles better. Sometimes something that seems simple takes forever. Empathy will help you build better products and better timelines.
+2. Empathy. Understand your developers struggles better. Sometimes something that seems simple takes forever. Empathy will help you build better products (and better timelines).
 
 ## The End Result
 
