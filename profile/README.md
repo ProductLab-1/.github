@@ -2,7 +2,11 @@
 
 ## Overview
 
-ProductLab is a comprehensive technical training program aimed at equipping Product Managers with the knowledge and skills necessary to understand and contribute to the software development lifecycle. From the basics of building secure full-stack web applications to mastering complex concepts in data management, security, architecture, quality assurance (QA), and DevOps, ProductLab prepares you to lead and innovate in the tech industry.
+ProductLab is a comprehensive technical training program aimed at equipping Product Managers with the knowledge and skills necessary to understand and contribute to the software development lifecycle. From the basics of building secure full-stack web applications to mastering complex concepts in data management, security, architecture, quality assurance (QA), and DevOps, ProductLab prepares you to lead and innovate in the tech industry. This course is a combination of in-class and self-taught learning. All of the self-taught material can be found within this Github organization. 
+
+In each Module you will first be introduced to concepts through academic material, such as videos and articles. Then you will be challenged to put what you learned to the test via a hands-on coding project. Do not skip the coding projects, they are the heart of this program. ProductLab is here to develop your technical skills and skills are developed through experience. If you just review the academic material you'll have an extremely difficult time building the depth of knowledge required to be a good Technical Product Manger. 
+
+Long story short: reading about something will help you learn jargon, building something will help you understand. 
 
 ## The Goal
 
@@ -11,7 +15,7 @@ ProductLab is a comprehensive technical training program aimed at equipping Prod
 
 ## The End Result
 
-A comprehensive portfolio website for yourself! Check out the ProductLab-Portfolio-Demo for an example of what you can build. 
+A robust skillset in technical topics that you can immediately apply to your career. And if thats not tangible enough, you'll also have a comprehensive portfolio website for yourself! Check out the ProductLab-Portfolio-Demo for an example of what you can build. 
 
 ## Navigating ProductLab
 
